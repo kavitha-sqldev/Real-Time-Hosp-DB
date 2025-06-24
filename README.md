@@ -42,7 +42,7 @@ This project is Hospital Management System developed using SQL. It aims to demon
 
 This project is part of my SQL portfolio. I'm Kavitha, a former educator transitioning into SQL development. I’m passionate about real-time data problem-solving using SQL.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile/)!
+Let’s connect on [[LinkedIn](https://www.linkedin.com/in/kavitavelu/))!
 
 ## 📩 Contact 90436 76540
 
